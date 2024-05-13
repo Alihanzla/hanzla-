@@ -1,3 +1,3 @@
 # hanzla-
 
-author Ali hanzla bilal 
+author Ali hanzla (bilal)
